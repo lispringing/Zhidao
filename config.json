@@ -9,7 +9,7 @@
     "progressbar_view": true,
     "qr_extra": {
         "show_in_terminal": true,
-        "ensure_unicode": false
+        "ensure_unicode": true
     },
     "image_path": "",
     "pushplus": {
